@@ -1,0 +1,15 @@
+To run these in a notebook environment, precede each by a (!) sign
+
+pip install rembg[cli]
+
+rembg i don.jpg don.png
+
+
+
+
+
+To run these in a notebook environment, precede each by a (!) sign
+
+pip install rembg[cli]
+
+rembg p ./ ./
