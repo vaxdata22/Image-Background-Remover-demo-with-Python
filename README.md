@@ -65,7 +65,7 @@ Then run this command to install the RemBG CLI package into your environment:
 pip install rembg[cli] onnxruntime
 ```
 
-The next command would be used to remove background from a specified JPEG file. Replace “photo” with the name of your chosen file. The “I” flag is used to pass the file. Again the output file can be of any filename:
+The next command would be used to remove background from a specified JPEG file. Replace “photo” with the name of your chosen file. The “i” flag is used to pass the file. Again the output file can be of any filename:
 ```
 rembg i photo.jpg photo.png
 ```
